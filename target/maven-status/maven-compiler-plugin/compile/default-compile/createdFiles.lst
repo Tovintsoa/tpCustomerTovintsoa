@@ -1,0 +1,8 @@
+mg\itu\tovintsoa\tpcustomertovintsoa\config\ConfigJSF.class
+mg\itu\tovintsoa\tpcustomertovintsoa\jsf\CustomerBean.class
+mg\itu\tovintsoa\tpcustomertovintsoa\resources\JakartaEE10Resource.class
+mg\itu\tovintsoa\tpcustomertovintsoa\ejb\CustomerManager.class
+mg\itu\tovintsoa\tpcustomertovintsoa\JakartaRestConfiguration.class
+mg\itu\tovintsoa\tpcustomertovintsoa\entities\Customer.class
+mg\itu\tovintsoa\tpcustomertovintsoa\entities\Discount.class
+mg\itu\tovintsoa\tpcustomertovintsoa\entities\MicroMarket.class
