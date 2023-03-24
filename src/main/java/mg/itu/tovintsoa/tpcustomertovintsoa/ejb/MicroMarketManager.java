@@ -31,7 +31,7 @@ public class MicroMarketManager {
     public void persist(MicroMarket customer) {
         em.persist(customer);
     }
-    public MicroMarket findById(int idCustomer) {  
+    public MicroMarket findById(String idCustomer) {  
         return em.find(MicroMarket.class, idCustomer);  
     }
 }
