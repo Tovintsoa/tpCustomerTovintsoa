@@ -1,12 +1,13 @@
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\config\ConfigJSF.java
+D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\jsf\MicroMarketConverter.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\ejb\DiscountManager.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\entities\Customer.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\ejb\CustomerManager.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\resources\JakartaEE10Resource.java
-D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\ejb\MicroMarketManager.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\JakartaRestConfiguration.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\jsf\CustomerDetailsBean.java
-D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\entities\Discount.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\jsf\CustomerBean.java
 D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\entities\MicroMarket.java
-D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\entities\DiscountConverter.java
+D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\jsf\DiscountConverter.java
+D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\ejb\MicroMarketManager.java
+D:\Tovintsoa_ETU372\EnvDevJava\tpCustomerTovintsoa\src\main\java\mg\itu\tovintsoa\tpcustomertovintsoa\entities\Discount.java
